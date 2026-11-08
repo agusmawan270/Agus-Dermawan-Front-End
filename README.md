@@ -3,7 +3,7 @@
 Website komunitas Google Developer Groups on Campus Universitas Gadjah Mada yang dibangun menggunakan React.js dan Vite.
 
 ## 🚀 Live Demo
-Akses website secara live di Netlify: [https://agusdermawan2.netlify.app/](https://agusdermawan1.netlify.app/)
+Akses website secara live di Netlify: [https://agusdermawan1.netlify.app/](https://agusdermawan1.netlify.app/)
 
 ## 🛠️ Tech Stack & Features
 * **React.js & React Router:** Navigasi halaman lengkap (Home, About, Overview, FAQs).
