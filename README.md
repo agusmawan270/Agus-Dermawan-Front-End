@@ -13,7 +13,3 @@ Akses website secara live di Netlify: [https://agusdermawan1.netlify.app/](https
 ## 🎥 Video Presentation
 Presentasi proyek berdurasi 3–5 menit yang menjelaskan arsitektur kode, fitur interaktif, dan demonstrasi aplikasi dapat ditonton melalui tautan Google Drive berikut:
 * **Video Link:** [Google Drive Video Presentation](https://drive.google.com/file/d/1hM_8lI0GArrPVlo7Kh-__yBgoFcIGlcI/view?usp=vids_web)
-## ⚙️ Setup Instructions 
-1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/agusmawan270/Agus-Dermawan-Front-End.git](https://github.com/agusmawan270/Agus-Dermawan-Front-End.git)
